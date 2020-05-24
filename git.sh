@@ -1,2 +1,1 @@
-f:
-cd Rust/Poznt
+echo "Hello World !"
