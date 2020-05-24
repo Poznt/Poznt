@@ -1,0 +1,2 @@
+f:
+cd Rust/Poznt
